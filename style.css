@@ -1,0 +1,26 @@
+.texto-menor{
+    font-size: 13px;
+}
+.facilidades{
+    width: 325px;
+}
+.verde{
+    color:#DAFF01;
+}
+#lilas {
+    background-color: #9353FF;    
+}
+.ajuste-largura{
+    width: 100vw;
+}
+#box-form{
+    width: 50%;
+    margin: 0 auto;
+}
+#logo{
+    margin-top: 25%;
+}
+#barra-superior {
+    height: 58px;
+    margin: 0;
+}
