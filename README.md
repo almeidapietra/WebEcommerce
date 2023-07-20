@@ -3,7 +3,7 @@
 
 ## Sobre o Projeto
 
-
+https://webecommerce.pietraalmeida.repl.co/
 
 O site Meteora é uma aplicação Front-End contruído como projeto do curso Bootstrap5 do [Alura](https://www.alura.com.br/ "Site do Alura"). 
 
