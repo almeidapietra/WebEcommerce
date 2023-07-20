@@ -24,3 +24,8 @@
     height: 58px;
     margin: 0;
 }
+@media (max-width: 576px) {
+  #box-form {
+    width: 95%;
+  }
+}
